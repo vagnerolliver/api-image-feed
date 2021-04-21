@@ -1,4 +1,4 @@
-# api-image-feed
+# image-feed
 My Essential App Case Study
 
 ## Image Feed Feature Specs

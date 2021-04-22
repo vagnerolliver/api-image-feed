@@ -1,5 +1,4 @@
-# image-feed
-My Essential App Case Study
+# My Essential APP Case Study
 
 ## Image Feed Feature Specs
 
